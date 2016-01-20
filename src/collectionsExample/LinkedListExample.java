@@ -1,4 +1,4 @@
-package collections;
+package collectionsExample;
 
 /* Author: Gaurav M
  * Subject: Example of Linked List

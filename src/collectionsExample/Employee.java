@@ -1,4 +1,4 @@
-package collections;
+package collectionsExample;
 
 public class Employee {
 
